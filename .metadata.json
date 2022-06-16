@@ -1,0 +1,18 @@
+[
+  {
+    "package": "CAISEr",
+    "oncran": true
+  },
+  {
+    "package": "CALANGO",
+    "oncran": true
+  },
+  {
+    "package": "ExpDE",
+    "oncran": true
+  },
+  {
+    "package": "MOEADr",
+    "oncran": true
+  }
+]

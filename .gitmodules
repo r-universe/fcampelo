@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CAISEr"]
+	path = CAISEr
+	url = https://github.com/fcampelo/caiser
+	shallow = true
+	registered = true
+[submodule "CALANGO"]
+	path = CALANGO
+	url = https://github.com/fcampelo/calango
+	shallow = true
+	registered = true
+[submodule "ExpDE"]
+	path = ExpDE
+	url = https://github.com/fcampelo/expde
+	shallow = true
+	registered = true
+[submodule "MOEADr"]
+	path = MOEADr
+	url = https://github.com/fcampelo/moeadr
+	shallow = true
+	registered = true
