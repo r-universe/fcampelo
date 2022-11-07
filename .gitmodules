@@ -18,8 +18,3 @@
 	url = https://github.com/fcampelo/expde
 	shallow = true
 	registered = true
-[submodule "MOEADr"]
-	path = MOEADr
-	url = https://github.com/fcampelo/moeadr
-	shallow = true
-	registered = true

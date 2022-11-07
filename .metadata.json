@@ -10,8 +10,5 @@
   {
     "package": "ExpDE",
     "oncran": true
-  },
-  {
-    "package": "MOEADr"
   }
 ]
